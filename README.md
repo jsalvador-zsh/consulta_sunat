@@ -44,17 +44,12 @@
 - Módulo base de Odoo instalado (`base`)
 - [API PERÚ](https://apiperu.dev/) token para las consultas de RUC y DNI
 
-## 🌐 Demo y Documentación
-
-Puedes encontrar más detalles en la página de [documentación del módulo](https://jsalvador.dev/consulta_sunat) o visitar la [demo en línea](https://demo.jsalvador.dev).
-
 ## 🛠 Uso
 
 1. Ve al módulo de **Contactos** en Odoo.
 2. Selecciona el tipo de identificación (RUC o DNI).
 3. Ingresa el número de identificación en el campo correspondiente.
 4. Automáticamente se completarán los datos relevantes (razón social, domicilio, nombres, etc.).
-
 
 ## 🧑‍💻 Autor
 
